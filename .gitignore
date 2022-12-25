@@ -1,0 +1,7 @@
+*.a
+*.d
+*.o
+*.txt
+bin/todo
+bin/todo-test
+
